@@ -6,5 +6,5 @@ This repo contains Jupyter notebooks that showcase exploratory data analysis and
 * Diabetes
 * Housing
 * Titanic
-* Quarterbacks_challenge_Kaggle
+* Quarterbacks
 
