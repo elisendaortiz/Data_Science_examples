@@ -3,8 +3,8 @@ This repo contains Jupyter notebooks that showcase exploratory data analysis and
 
 ## Contents
 * Airbnb
-* Housing
 * Diabetes
+* Housing
 * Titanic
 * Quarterbacks_challenge_Kaggle
 
