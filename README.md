@@ -1,2 +1,10 @@
-# Data_Science_examples
-Some Jupyter notebooks with exploratory data analysis and implementation of mainstream ML methods.
+# Data Science examples
+This repo contains Jupyter notebooks that showcase exploratory data analysis and implementation of mainstream ML methods.
+
+## Contents
+* Airbnb
+* Housing
+* Diabetes
+* Titanic
+* Quarterbacks_challenge_Kaggle
+
