@@ -5,6 +5,5 @@ This repo contains Jupyter notebooks that showcase exploratory data analysis and
 * Airbnb
 * Diabetes
 * Housing
-* Quarterbacks
 * Titanic
 
